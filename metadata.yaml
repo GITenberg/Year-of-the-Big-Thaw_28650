@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8842
     wikipedia: http://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
 description: Cover; Title Page; Copyright Page; Year of the Big Thaw.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28650#Year-of-the-Big-Thaw
 gutenberg_bookshelf:
 - Science Fiction
 - Science Fiction by Women
